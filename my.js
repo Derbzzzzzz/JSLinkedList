@@ -1,3 +1,5 @@
+/* Both classes have all their members protected, signified by the _ proceeding their names */
+
 class List {
     
     constructor(){
